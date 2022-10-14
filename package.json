@@ -5,7 +5,7 @@
   "main": "index.js",
   "homepage": "https://Artemis1992.github.io/portfolio",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
